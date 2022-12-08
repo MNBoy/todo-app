@@ -16,3 +16,5 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 ## ❗️Notes
 #### Because the tasks were supposed to be displayed separately for each user and this web application is deployed in Vercel, the data is not stored in the database and is stored in the client browser storage.
+
+##[Open Web App](https://todo-app-mnboy.vercel.app/)
